@@ -27,3 +27,8 @@ class Matrix(UserList):
 matrix = Matrix()
 matrix.fill_matrix_in_spiral_order(4)
 print(matrix)
+
+# see below links for explanation of the solutions:
+# https://leetcode.com/problems/spiral-matrix/discuss/20571/1-liner-in-Python-%2B-Ruby
+# https://leetcode.com/problems/spiral-matrix-ii/discuss/22282/4-9-lines-Python-solutions
+    
